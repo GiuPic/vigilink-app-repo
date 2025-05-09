@@ -4,7 +4,7 @@
     <name>My Private Repo</name>
     <description>Repo privata per la mia app</description>
     <icon>https://img.freepik.com/vettori-premium/emblema-rotondo-con-etichetta-a-nastro-modello-logo-vuoto_53562-14605.jpg</icon>
-    <address>https://raw.githubusercontent.com/<utente>/<repo>/main/index.xml</address>
+    <address>https://raw.githubusercontent.com/GiuPic/vigilink-app-repo/main/index.xml</address>
   </repo>
 
   <application id="com.vigilink">
