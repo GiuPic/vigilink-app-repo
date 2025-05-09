@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<fdroid>
+  <repo>
+    <name>My Private Repo</name>
+    <description>Repo privata per la mia app</description>
+    <icon>https://img.freepik.com/vettori-premium/emblema-rotondo-con-etichetta-a-nastro-modello-logo-vuoto_53562-14605.jpg</icon>
+    <address>https://raw.githubusercontent.com/<utente>/<repo>/main/index.xml</address>
+  </repo>
+
+  <application id="com.vigilink">
+    <package name="com.vigilink" versionName="1.0" versionCode="1" apkName="app-debug.apk" hash="ed7ab9a28af9965177313f8e30bc254db34e9ddfb14e1a30352dfd43868c09e3" added="2025-05-09" />
+  </application>
+</fdroid>
