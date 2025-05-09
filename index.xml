@@ -8,6 +8,7 @@
   </repo>
 
   <application id="com.vigilink">
+    <summary>App per istituti di vigilanza</summary>
     <package name="com.vigilink" versionName="1.0" versionCode="1" apkName="app-debug.apk" hash="ed7ab9a28af9965177313f8e30bc254db34e9ddfb14e1a30352dfd43868c09e3" added="2025-05-09" />
   </application>
 </fdroid>
