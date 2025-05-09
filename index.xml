@@ -9,6 +9,6 @@
 
   <application id="com.vigilink">
     <summary>App per istituti di vigilanza</summary>
-    <package name="com.vigilink" versionName="1.0" versionCode="1" apkName="app-debug.apk" hash="ed7ab9a28af9965177313f8e30bc254db34e9ddfb14e1a30352dfd43868c09e3" added="2025-05-09" />
+    <package name="com.vigilink" versionName="1.0" versionCode="1" apkName="vigilink-app-1.apk" hash="6c6bddf23b26f5a1ec67623361522aa66d42f08327e420ac8ed645b52215935b" added="2025-05-09" />
   </application>
 </fdroid>
